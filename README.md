@@ -1,2 +1,2 @@
-# csgo-nochickens-sm
+# Description
 Remove chickens from all maps.
